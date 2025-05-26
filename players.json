@@ -4,8 +4,8 @@
       "no": "1",
       "name": "Aaron Ramsdale",
       "birth_date": "1998-05-14",
-      "Position": "Goalkeeper",
-      "International": "England",
+      "position": "Goalkeeper",
+      "international": "England",
       "Team": "Arsenal",
       "Poster": "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250105912.webp7"
     },
@@ -13,8 +13,8 @@
       "no": "2",
       "name": "William Saliba",
       "birth_date": "2001-03-24",
-      "Position": "Defender",
-      "International": "France",
+      "position": "Defender",
+      "international": "France",
       "Team": "Arsenal",
       "Poster": "https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250127439.webp"
     },
@@ -22,8 +22,8 @@
       "no": "6",
       "name": "Gabriel Magalhaes",
       "birth_date": "1997-12-19",
-      "Position": "Defender",
-      "International": "Brazil",
+      "position": "Defender",
+      "international": "Brazil",
       "Team": "Arsenal",
       "Poster": "https://i.namu.wiki/i/c6TW32yv_n26TrQtT080Ij6jCHNih6nSFZ6jtR18Q1vAMn-KZSlKdhgRZH74oZhF6vfAYj7izC6IpQPHTH5jhw.webp"
     },
@@ -31,8 +31,8 @@
       "no": "8",
       "name": "Martin Odegaard",
       "birth_date": "1998-12-17",
-      "Position": "MIDFIELDERS",
-      "International": "Norway",
+      "position": "MIDFIELDERS",
+      "international": "Norway",
       "Team": "Arsenal",
       "Poster": "https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250081341.webp"
     },
@@ -40,8 +40,8 @@
       "no": "41",
       "name": "Declan Rice",
       "birth_date": "1999-01-14",
-      "Position": "MIDFIELDERS",
-      "International": "England",
+      "position": "MIDFIELDERS",
+      "international": "England",
       "Team": "Arsenal",
       "Poster": "https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250083732.webp"
     },
@@ -49,8 +49,8 @@
       "no": "7",
       "name": "Bukayo Saka",
       "birth_date": "2001-09-05",
-      "Position": "FORWARDS",
-      "International": "England",
+      "position": "FORWARDS",
+      "international": "England",
       "Team": "Arsenal",
       "Poster": "https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250106939.webp"
     },
@@ -58,8 +58,8 @@
       "no": "9",
       "name": "Gabriel Jesus",
       "birth_date": "1997-04-03",
-      "Position": "FORWARDS",
-      "International": "Brazil",
+      "position": "FORWARDS",
+      "international": "Brazil",
       "Team": "Arsenal",
       "Poster": "https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250106649.webp"
     }
